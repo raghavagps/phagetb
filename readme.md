@@ -130,8 +130,9 @@ model_phage_host_pair.py: The python script for predicting interaction for a pha
 ## Address for contact
 In case of any query, feel free to reach out to us at 
 ```
-Prof. G. P. S. Raghava, Head Department of Computational Biology,            
-Indraprastha Institute of Information Technology (IIIT), 
-Okhla Phase III, New Delhi 110020 ; Phone:+91-11-26907444; 
-Email: raghava@iiitd.ac.in  Web: http://webs.iiitd.edu.in/raghava/
+Prof. G. P. S. Raghava, Head Department of Computational Biology,Indraprastha Institute of Information Technology (IIIT), 
+Okhla Phase III, New Delhi 110020 ; Phone:+91-11-26907444; Email: raghava@iiitd.ac.in  Web: http://webs.iiitd.edu.in/raghava/
 ```
+<b>Reference</b>: Aggarwal et al. (2023) An ensemble method for prediction of p\
+hage-based therapy against bacterial infections. <a href="https://doi.org/10.33\
+89/fmicb.2023.1148579">Front. Microbiol., DOI: 10.3389/fmicb.2023.1148579</a>
