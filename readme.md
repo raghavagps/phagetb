@@ -4,6 +4,15 @@
 
 PhageTB is a multilevel prediction method for predicting interactions between bacteriophages and pathogenic bacterial hosts. This study develops a novel host prediction method for predicting hosts of query phages by their genome sequences utilizing alignment-based and alignment-free features.
 
+## PIP Installation
+PIP version is also available for easy installation and usage of this tool. The following command is required to install the package 
+```
+pip install phagetb
+```
+To know about the available option for the pip package, type the following command:
+```
+phagetb -h
+```
 ## Installation
 ```
 git clone https://github.com/raghavagps/phagetb.git
